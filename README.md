@@ -5,7 +5,7 @@
 - 📫 How to reach me GitHub 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/pie-chart/?username=zhira03)](https://github.com/zhira03/github-readme-stats)
+- [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/pie-chart/?username=zhira03)]
 
 <!---
 zhira03/zhira03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
